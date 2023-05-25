@@ -2,6 +2,18 @@
 
 I'm a passionate web developer who loves to create dynamic and interactive websites. I believe in the power of the web to build connections, share ideas, and make life easier.
 
+## 📫 How to Reach Me
+
+You can reach out to me through the following channels:
+
+<a href="mailto:g.okradze.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email me" />
+</a>
+
+<a href="https://www.linkedin.com/in/goga-okradze/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
 ## 🛠️ My Tech Stack
 
 Here are some of the technologies and tools that I work with:
@@ -22,22 +34,9 @@ Here are some of the technologies and tools that I work with:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-
-## 📫 How to Reach Me
-
-You can reach out to me through the following channels:
-
-<a href="mailto:g.okradze.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email me" />
-</a>
-
-<a href="https://www.linkedin.com/in/goga-okradze/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
 
 ## 📈 My GitHub Stats
 
