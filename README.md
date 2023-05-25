@@ -31,4 +31,4 @@ I'm a passionate web developer who loves to create dynamic and interactive websi
 
 Here's an example of what the markdown might look like: -->
 
-[gogaokradze's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogaokradze&show_icons=true&theme=radical)
+![gogaokradze's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogaokradze&show_icons=true&theme=radical)
