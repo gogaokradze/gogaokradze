@@ -6,11 +6,11 @@ I'm a passionate web developer who loves to create dynamic and interactive websi
 
 You can reach out to me through the following channels:
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:g.okradze.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email me" />
 </a>
 
-<a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+<a href="https://www.linkedin.com/in/goga-okradze/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
