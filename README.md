@@ -6,7 +6,7 @@ I'm a passionate web developer who loves to create dynamic and interactive websi
 
 You can reach out to me through the following channels:
 
-<a href="mailto:g.okradze.dev@gmail.com">
+<a href="mailto:g.okradze.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email me" />
 </a>
 
