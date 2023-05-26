@@ -48,6 +48,6 @@ Here are some of the technologies and tools that I work with:
 
 ## 📈 My GitHub Stats
 
-![gogaokradze's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogaokradze&show_icons=true&theme=radical)
+![gogaokradze's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogaokradze&show_icons=true&theme=radical&private_repo=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogaokradze&layout=compact)
 
