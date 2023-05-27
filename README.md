@@ -48,7 +48,7 @@ Here are some of the technologies and tools that I work with:
 
 ## 📈 My GitHub Stats
 
-![gogaokradze's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogaokradze&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gogaokradze&count_private=true&show_icons=true&include_all_commits=true&theme=calm" alt="gogaokradze => Stats" />
+<!-- ![gogaokradze's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogaokradze&show_icons=true&theme=radical&count_private=true&include_all_commits=true) -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gogaokradze&count_private=true&show_icons=true&include_all_commits=true" alt="gogaokradze => Stats" />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogaokradze&layout=compact)
 
