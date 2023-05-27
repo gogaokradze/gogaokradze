@@ -48,5 +48,5 @@ Here are some of the technologies and tools that I work with:
 
 ## 📈 My GitHub Stats
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gogaokradze&count_private=true&show_icons=true&include_all_commits=true&theme=radical" alt="gogaokradze => Stats" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogaokradze&layout=compact)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gogaokradze&layout=compact" alt="gogaokradze => Stats" />
 
